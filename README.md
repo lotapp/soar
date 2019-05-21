@@ -12,6 +12,15 @@
 
 SOAR(SQL Optimizer And Rewriter)是一个对SQL进行优化和改写的自动化工具。 由小米人工智能与云平台的数据库团队开发与维护。
 
+不用配置什么环境，直接`echo "你的sql语句" | soar`来运行即可
+![](https://img2018.cnblogs.com/blog/1127869/201902/1127869-20190227145734421-1174292734.png)
+
+Web版扩展：<https://github.com/lotapp/soar-web>
+
+拓展文章：
+- <https://mp.weixin.qq.com/s/XJvRjkSab4B5zPdWBOhi1w>
+- <https://mp.weixin.qq.com/s/7sj2HnOQsNP_Zf_07C1FFQ>
+
 ## 功能特点
 
 * 跨平台支持（支持Linux, Mac环境，Windows环境理论上也支持，不过未全面测试）
